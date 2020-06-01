@@ -1,0 +1,2 @@
+# HTML_Canvas
+Observe the following image. The red rectangle indicates the screen and it contains three rectangles. Suppose user clicks inside the screen, which is somewhere between the co-ordinates 0,0 and 500,500 and you need to find out if the user clicked inside a small rectangle and if they did which rectangle the user clicked. For example, if the user clicked 220,110 the answer is the green rectangle because the coordinate is inside the green rectangle, indicated by the blue lines.  The input is x and y The output is "Clicked inside Red/Green/Brown/Blue rectangle."
